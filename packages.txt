@@ -1,2 +1,4 @@
 portaudio19-dev
 alsa-utils
+ffmpeg
+libportaudio2
