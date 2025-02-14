@@ -1,7 +1,14 @@
 streamlit
+streamlit-autorefresh
 pyaudio
-torch
+librosa==0.10.0
 openai-whisper
 whisper
-librosa
-numpy
+pytube
+yt-dlp
+ffmpeg-python
+langdetect
+gtts
+torch==2.0.1+cpu
+torchaudio==2.0.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
